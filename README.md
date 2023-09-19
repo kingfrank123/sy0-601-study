@@ -9,6 +9,7 @@ Social engineering is a form of attach that exploits human nature and human beha
 #### Phishing
 Malicious SPAM.
 Email containing link or attachment for user to click to retrieve sensitive personal information.
+A social engineering technique where attackers try to gain access to confidential information under the disguise of a legitimate request.
 #### Smishing
 SMS phishing. Attack done over standard text messaging services.
 #### Vishing
